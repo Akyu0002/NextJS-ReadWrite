@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R Tolkien",
+    "details": "The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged."
+  },
+  {
+    "id": "2",
+    "title": "Lord of the Rings: The Two Towers",
+    "author": "J.R.R Tolkien",
+    "details": "The sequel to the Golden Globe-nominated and AFI Award-winning The Lord of the Rings: The Fellowship of the Ring, The Two Towers follows the continuing quest of Frodo (Elijah Wood) and the Fellowship to destroy the One Ring. Frodo and Sam (Sean Astin) discover they are being followed by the mysterious Gollum. Aragorn (Viggo Mortensen), the Elf archer Legolas and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell."
+  },
+  {
+    "id": "3",
+    "title": "Lord of the Rings: The Return of the King",
+    "author": "J.R.R Tolkien",
+    "details": "The culmination of nearly 10 years' work and conclusion to Peter Jackson's epic trilogy based on the timeless J.R.R. Tolkien classic, The Lord of the Rings: The Return of the King presents the final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits Frodo and Sam reach Mordor in their quest to destroy the `one ring', while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith."
+  },
+  {
+    "id": "1668045756719",
+    "title": "The Bible",
+    "author": "Jesus",
+    "details": "Justin loves this book."
+  }
+]
